@@ -1,1 +1,1 @@
-wget http://cloud.4linux.com.br:8081/nexus/#view-repositories;releases~browsestorage 
+wget https://github.com/devops-with-openshift/bluegreen#master
