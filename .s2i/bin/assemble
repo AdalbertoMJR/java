@@ -1,1 +1,1 @@
-wget http://cloud.4linux.com.br:8081/nexus/#view-repositories;releases~browsestorage -O /wildfly/standalone/deployments/helloworld.ear
+wget http://cloud.4linux.com.br:8081/nexus/#view-repositories;releases~browsestorage 
